@@ -1,0 +1,7 @@
+#Rider EAP
+.idea
+
+# csharp default ignores
+obj
+bin
+*'Development.json
